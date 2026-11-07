@@ -402,22 +402,7 @@ export default function Page() {
                                           </ul>
                                       </div>
                                   </div>
-                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-
-                                      <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/subhojit.jpg" alt="Subhojit" /></div>
-
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Subhojit</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-
-                                          <ul className="social">
-                                              <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
+                            
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
 
                                       <div className="our-team">
