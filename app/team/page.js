@@ -43,19 +43,17 @@ export default function Page() {
                               <h2 className="text-center my-4" data-aos="fade-up" data-aos-delay="100">Overall Club Coordinator</h2>
                               <div className="row d-flex justify-content-center">
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
+
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Coords/Deepesh.jpg" alt="Pratyush Manas" /></div>
-                                          
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Deepesh Kumar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Organizer</span></div>
-                                          
+                                          <div className="pic"><img src="/img/Coords/anand_kumar.jpg" alt="Anand Kumar" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Anand Kumar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Organizer</span></div>
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:pratyush_2101mm17@iitp.ac.in"><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/pratyush-manas-322460228/
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/cuberrr65/
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
@@ -65,514 +63,550 @@ export default function Page() {
                               <h2 className="text-center my-4" data-aos="fade-up">Committee Coordinators</h2>
                               <div className="row d-flex justify-content-around">
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
+
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Coords/Abhinay_ MPR.jpg" alt="" /></div>
-                                          
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Abhinay</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                          
-                                          <ul className="social">
-                                              <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:saranya_2101mm24@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/saranya-tiwari-68b74224b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/tiwsaranya?igsh=MW02bHViN3VieHFwMw==
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                    <div className="our-team">
-                                        <div className="pic"><img src="/img/Coords/Abhishek_MediaRelations.jpg" alt="" /></div>
-                                        
-                                        <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Abhishek</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                        
-                                        <ul className="social">
-                                            <li className="d-flex flex-row justify-content-around align-item-center">
-                                                <a href="mailto:mohit_2101mm11@iitp.ac.in
-                                                "><i className="fa fs-2 fa-envelope"></i></a>
-                                                <a href="https://www.linkedin.com/in/mohit-kumar-941a54201/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                          <div className="pic"><img src="/img/Coords/abhijeet.jpg" alt="Abhijeet" /></div>
 
-                                <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                    <div className="our-team">
-                                        <div className="pic"><img src="/img/Coords/Ananta_MediaRelations.jpg" alt="" /></div>
-                                        
-                                        <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Ananta</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                        
-                                        <ul className="social">
-                                            <li className="d-flex flex-row justify-content-around align-item-center">
-                                                <a href="mailto:mohit_2101mm11@iitp.ac.in
-                                                "><i className="fa fs-2 fa-envelope"></i></a>
-                                                <a href="https://www.linkedin.com/in/mohit-kumar-941a54201/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                    <div className="our-team">
-                                        <div className="pic"><img src="/img/Coords/VirajKulkarni_MPR.jpg" alt="" /></div>
-                                        
-                                        <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Viraj Kulkarni</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                        
-                                        <ul className="social">
-                                            <li className="d-flex flex-row justify-content-around align-item-center">
-                                                <a href="mailto:mohit_2101mm11@iitp.ac.in
-                                                "><i className="fa fs-2 fa-envelope"></i></a>
-                                                <a href="https://www.linkedin.com/in/mohit-kumar-941a54201/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                  <div className="our-team">
-                                      <div className="pic"><img src="/img/Coords/Anshul_Events.JPG" alt="" /></div>
-                                      
-                                      <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Anshul</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
-                                      
-                                      <ul className="social">
-                                          <li className="d-flex flex-row justify-content-around align-item-center">
-                                              <a href="mailto:rachit_2101mm20@iitp.ac.in
-                                              "><i className="fa fs-2 fa-envelope"></i></a>
-                                              <a href="https://www.linkedin.com/in/rachit-ranjan-030540224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                              " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                              <a href="https://www.instagram.com/rachit_2527?igsh=OGQ5ZDc2ODk2ZA==
-                                              " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                          </li>
-                                      </ul>
-                                  </div>
-                              </div>
-                              <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                <div className="our-team">
-                                    <div className="pic"><img src="/img/Coords/Masthan_Events.jpg" alt="" /></div>
-                                    
-                                    <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Masthan</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
-                                    
-                                    <ul className="social">
-                                        <li className="d-flex flex-row justify-content-around align-item-center">
-                                            <a href="mailto:bhumika_2101mm07@iitp.ac.in
-                                            "><i className="fa fs-2 fa-envelope"></i></a>
-                                            <a href="https://www.linkedin.com/in/bhumikatiwari21
-                                            " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                            <a href="https://www.instagram.com/_bhumikatiw_21?igsh=NnNqODJtYWh5aW85
-                                            " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                              <div className="our-team">
-                                  <div className="pic"><img src="/img/Coords/Rakesh Kumar __Events.jpg" alt="" /></div>
-                                  
-                                  <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Rakesh Kumar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
-                                  
-                                  <ul className="social">
-                                      <li className="d-flex flex-row justify-content-around align-item-center">
-                                          <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
-                                          <a href="#"><i className="fa fs-2 fa-linkedin"></i></a>
-                                          <a href="#"><i className="fa fs-2 fa-instagram"></i></a>
-                                      </li>
-                                  </ul>
-                              </div>
-                          </div>
-                          <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                            <div className="our-team">
-                                <div className="pic"><img src="/img/Coords/rishabh_events.jpg" alt="" /></div>
-                                
-                                <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Rishabh Kumar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
-                                
-                                <ul className="social">
-                                    <li className="d-flex flex-row justify-content-around align-item-center">
-                                        <a href="mailto:aditi_2101mm01@iitp.ac.in
-                                        "><i className="fa fs-2 fa-envelope"></i></a>
-                                        <a href="https://www.linkedin.com/in/aditi-verma28?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                        " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                        <a href="https://www.instagram.com/aditiverma.28?igsh=OGQ5ZDc2ODk2ZA==
-                                        " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                          <div className="our-team">
-                              <div className="pic"><img src="/img/Coords/Sagar_Events.jpg" alt="" /></div>
-                              
-                              <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Sagar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
-                              
-                              <ul className="social">
-                                  <li className="d-flex flex-row justify-content-around align-item-center">
-                                      <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
-                                      <a href="#"><i className="fa fs-2 fa-linkedin"></i></a>
-                                      <a href="#"><i className="fa fs-2 fa-instagram"></i></a>
-                                  </li>
-                              </ul>
-                          </div>
-                      </div>
-
-                        <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                          <div className="our-team">
-                              <div className="pic"><img src="/img/Coords/Hemanth_sonu_designer.jpg" alt="" /></div>
-                              
-                              <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Hemanth</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
-                              
-                              <ul className="social">
-                                  <li className="d-flex flex-row justify-content-around align-item-center">
-                                      <a href="mailto:falendra_2101mm44@iitp.ac.in
-                                      "><i className="fa fs-2 fa-envelope"></i></a>
-                                      <a href="https://www.linkedin.com/in/falendra-kumar-0a895a2a0/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                      <a href="https://www.instagram.com/o_ly_falendra/?hl=en" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                  </li>
-                              </ul>
-                          </div>
-                      </div>
-
-                      <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                          <div className="our-team">
-                              <div className="pic"><img src="/img/Coords/Diptanshu.jpg" alt="" /></div>
-                              
-                              <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Diptanshu</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
-                              
-                              <ul className="social">
-                                  <li className="d-flex flex-row justify-content-around align-item-center">
-                                      <a href="mailto:falendra_2101mm44@iitp.ac.in
-                                      "><i className="fa fs-2 fa-envelope"></i></a>
-                                      <a href="https://www.linkedin.com/in/falendra-kumar-0a895a2a0/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                      <a href="https://www.instagram.com/o_ly_falendra/?hl=en" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                  </li>
-                              </ul>
-                          </div>
-                      </div>
-                     
-                    <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                      <div className="our-team">
-                          <div className="pic"><img src="/img/Coords/ajay kumar saini _ technical.webp" alt="" /></div>
-                          
-                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Ajay Kumar Saini</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Technical</span></div>
-                          
-                          <ul className="social">
-                              <li className="d-flex flex-row justify-content-around align-item-center">
-                                  <a href="mailto:nandita_2101mm12@iitp.ac.in"><i className="fa fs-2 fa-envelope"></i></a>
-                                  <a href="https://www.linkedin.com/in/nandita27iitp/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                  <a href="https://www.instagram.com/_nan_dita27_/?hl=en" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                              </li>
-                          </ul>
-                      </div>
-                  </div>
-
-                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                      <div className="our-team">
-                          <div className="pic"><img src="/img/Coords/Prabhraj_technical.jpg" alt="" /></div>
-                          
-                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Prabhraj</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Technical</span></div>
-                          
-                          <ul className="social">
-                              <li className="d-flex flex-row justify-content-around align-item-center">
-                                  <a href="mailto:nandita_2101mm12@iitp.ac.in"><i className="fa fs-2 fa-envelope"></i></a>
-                                  <a href="https://www.linkedin.com/in/nandita27iitp/" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                  <a href="https://www.instagram.com/_nan_dita27_/?hl=en" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                              </li>
-                          </ul>
-                      </div>
-                  </div>
-                              </div>
-                        
-                              <h2 className="text-center my-4" data-aos="fade-up">Committee Sub-Coordinators</h2>
-                              <div className="row d-flex justify-content-around">
-                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                      <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Aman_ Public Relations.jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Aman</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                          
-                                          <ul className="social">
-                                              <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm33_tanvi@iitp.ac.in 
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/tanvi-mishra-39928a271
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-      
-                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                      <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Aditya_PublicRelations.jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Aditya</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                          
-                                          <ul className="social">
-                                              <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm39_raunak@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/raunak-bansod-718b30259
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/raunak_04_?igsh=OGQ5ZDc2ODk2ZA==
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-      
-                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                      <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Alok_PublicRelations.webp" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Alok Kumar
-                                          </h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                          
-                                          <ul className="social">
-                                              <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm08@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/anurag-singh-70a44125a
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-
-                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                      <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Deependra_PublicRelations.jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Deependra</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                          
-                                          <ul className="social">
-                                              <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm39_raunak@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/raunak-bansod-718b30259
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/raunak_04_?igsh=OGQ5ZDc2ODk2ZA==
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-
-                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                      <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Shailja Mathuria .jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Shailja Mathuria</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
-                                          
-                                          <ul className="social">
-                                              <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm39_raunak@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/raunak-bansod-718b30259
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/raunak_04_?igsh=OGQ5ZDc2ODk2ZA==
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-      
-                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
-                                      <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Abhijeet_Events.jpg" alt="" /></div>
-      
                                           <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Abhijeet</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
-                                          
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm35_view@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
                                                   <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
                                                   <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
                                   </div>
-      
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
+
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Akshaya_Events.jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Akshaya 
-                                          </h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
-                                          
+                                          <div className="pic"><img src="/img/Coords/meghna.jpg" alt="Meghna" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Meghna</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm29_subham@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/subham-prasad-gouda-623666255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/subham_iitp?igsh=OGQ5ZDc2ODk2ZA==
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
                                   </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
 
-                                <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Meghana_Events.jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Meghana
-                                          </h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
-                                          
+                                          <div className="pic"><img src="/img/Coords/akshaya.jpg" alt="Akshaya" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Akshaya</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm29_subham@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/subham-prasad-gouda-623666255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/subham_iitp?igsh=OGQ5ZDc2ODk2ZA==
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
                                   </div>
-
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
+
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Anand.jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Anand
-                                          </h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
-                                          
+                                          <div className="pic"><img src="/img/Coords/lucky.jpg" alt="Lucky" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Lucky</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm29_subham@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/subham-prasad-gouda-623666255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/subham_iitp?igsh=OGQ5ZDc2ODk2ZA==
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
                                   </div>
-
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
+
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Shankha_Technical.jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Shankhadeep
-                                          </h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Technical</span></div>
-                                          
+                                          <div className="pic"><img src="/img/Coords/sanjay.jpg" alt="Sanjay" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Sanjay</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm37_arpan@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/arpan-patel-98869025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/__x__arpan__x__?igsh=MWc3cWNhOGI2eHpjag==
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
                                   </div>
-
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
+
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Digvijay_Technical.jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Digvijay
-                                          </h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Technical</span></div>
-                                          
+                                          <div className="pic"><img src="/img/Coords/aman_manotar.jpg" alt="Aman Manotar" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Aman Manotar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm37_arpan@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/arpan-patel-98869025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/__x__arpan__x__?igsh=MWc3cWNhOGI2eHpjag==
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
                                   </div>
-
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
+
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Parnava_Design.jpg" alt="" /></div>
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Parnava
-                                          </h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
+                                          <div className="pic"><img src="/img/Coords/shailja.jpg" alt="Shailja" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Shailja</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201ph29_suprajit@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/suprajit-dewanji-977618225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/dewanjisuprajit2003?igsh=N2dldHo1cHRlcDY5
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
                                   </div>
-
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
+
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/bhuvan_design.jpg" alt="" /></div>
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Bhuvaneswar
-                                          </h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
+                                          <div className="pic"><img src="/img/Coords/deependra.jpg" alt="Deependra" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Deependra</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201ph29_suprajit@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/suprajit-dewanji-977618225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-                                                  " target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/dewanjisuprajit2003?igsh=N2dldHo1cHRlcDY5
-                                                  " target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
                                   </div>
-
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
-      
+
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Subcoords/Shashi Raghava _Design.jpg" alt="" /></div>
-      
-                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Shashi Raghava</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
-                                          
+                                          <div className="pic"><img src="/img/Coords/alok_kumar.jpg" alt="Alok Kumar" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Alok Kumar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
                                           <ul className="social">
                                               <li className="d-flex flex-row justify-content-around align-item-center">
-                                                  <a href="mailto:2201mm02_abhishek@iitp.ac.in
-                                                  "><i className="fa fs-2 fa-envelope"></i></a>
-                                                  <a href="https://www.linkedin.com/in/abhishek-roy-587480256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
-                                                  <a href="https://www.instagram.com/esabhishekroy?igsh=YTQwZjQ0NmI0OA==" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Coords/aditya_arekar.jpg" alt="Aditya Arekar" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Aditya Arekar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Coords/shankhadeep.jpg" alt="Shankhadeep" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Shankhadeep</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Technical</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Coords/parnava.jpg" alt="Parnava" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Parnava</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Coords/bhuvaneshwar.jpg" alt="Bhuvaneshwar" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Bhuvaneshwar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                        
+                              <h2 className="text-center my-4" data-aos="fade-up">Committee Sub-Coordinators</h2>
+                              <div className="row d-flex justify-content-around">
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/ayush_garg.jpg" alt="Ayush Garg" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Ayush Garg</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/lakshya_tiwari.jpg" alt="Lakshya Tiwari" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Lakshya Tiwari</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/mohak_dave.jpg" alt="Mohak Dave" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Mohak Dave</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/parijat_ghosh.jpg" alt="Parijat Ghosh" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Parijat Ghosh</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/ojal_tembhurne.jpg" alt="Ojal Tembhurne" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Ojal Tembhurne</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/tanish_prakash.jpg" alt="Tanish Prakash" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Tanish Prakash</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/ritika_verma.jpg" alt="Ritika Verma" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Ritika Verma</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/manda_ashrith_narayana.jpg" alt="Manda Ashrith Narayana" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Manda Ashrith Narayana</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Events</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                            
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/riya_kedia.jpg" alt="Riya Kedia" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Riya Kedia</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/divyansh_kaushik.jpg" alt="Divyansh Kaushik" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Divyansh Kaushik</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/krish_kumar.jpg" alt="Krish Kumar" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Krish Kumar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/susankrit_kumar_jha.jpg" alt="Susankrit Kumar Jha" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Susankrit Kumar Jha</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/nishant_chaudhary.jpg" alt="Nishant Chaudhary" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Nishant Chaudhary</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/sanyam_gocher.jpg" alt="Sanyam Gocher" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Sanyam Gocher</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Media and public relations</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/jayendra_singh.jpg" alt="Jayendra Singh" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Jayendra Singh</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Technical</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/anshul_kumar.jpg" alt="Anshul Kumar" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Anshul Kumar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Technical</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/shikhar_nayak.jpg" alt="Shikhar Nayak" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Shikhar Nayak</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Technical</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/vaibhav_kumar.jpg" alt="Vaibhav Kumar" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Vaibhav Kumar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Technical</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/aditya_prakash.jpg" alt="Aditya Prakash" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Aditya Prakash</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/pachava_shalini.jpg" alt="Pachava Shalini" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Pachava Shalini</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
+
+                                      <div className="our-team">
+                                          <div className="pic"><img src="/img/Subcoords/soni_pal.jpg" alt="Soni Pal" /></div>
+
+                                          <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Soni Pal</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Design</span></div>
+
+                                          <ul className="social">
+                                              <li className="d-flex flex-row justify-content-around align-item-center">
+                                                  <a href="#"><i className="fa fs-2 fa-envelope"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-linkedin"></i></a>
+                                                  <a href="#" target="_blank"><i className="fa fs-2 fa-instagram"></i></a>
                                               </li>
                                           </ul>
                                       </div>
@@ -641,21 +675,6 @@ export default function Page() {
           </footer>
           {/* Footer section end */}
         
-      
-          
-          
-          {/*====== Javascripts & Jquery ======*/}
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
     </main>
   )
 }
