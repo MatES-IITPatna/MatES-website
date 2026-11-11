@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
  :root {
     --font-default: "Poppins", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -276,8 +276,8 @@ margin-bottom:10px;
   bottom: 20px;
 }
 .our-team:hover .team-content {
-  translate: 0 -15px;
-  opacity: 0.7 !important;
+  translate: 0 -100px;
+  opacity: 0;
 }
 .our-team .social li {
   display: flex;
