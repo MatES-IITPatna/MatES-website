@@ -45,7 +45,7 @@ export default function Page() {
                                   <div className="col-lg-3 col-md-6 col-sm-6" style={{ display: "flex", justifyContent: "center" }} data-aos="fade-up" data-aos-delay="200">
 
                                       <div className="our-team">
-                                          <div className="pic"><img src="/img/Coords/anand_kumar.jpg" alt="Anand Kumar" /></div>
+                                          <div className="pic"><img src="/img/Coords/anand_kumar.jpeg" alt="Anand Kumar" /></div>
 
                                           <div className="team-content"><h3 className="title" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Anand Kumar</h3><span className="post" style={{ opacity: 1, visibility: "visible", transform: "none",display: "block",position: "relative",zIndex: 10 }}>Organizer</span></div>
 
